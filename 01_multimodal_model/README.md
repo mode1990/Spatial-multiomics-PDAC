@@ -21,7 +21,7 @@ HEAD
 - **Lymph Node Metastases (LNM)**: Lymphatic spread
 
 ### Technical Innovations
-- **Smart coordinate scaling** for accurate image patch extraction
+- **Coordinate scaling** for accurate image patch extraction
 - **Spatial graph construction** using k-nearest neighbors
 - **Multimodal fusion** of CNN image features + gene expression
 - **Graph convolution layers** for tissue context modeling
